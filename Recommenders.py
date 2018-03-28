@@ -1,6 +1,3 @@
-# Thanks to Siraj Raval for this module
-# Refer to https://github.com/llSourcell/recommender_live for more details
-
 import numpy as np
 import pandas
 
